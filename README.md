@@ -1,4 +1,4 @@
 # Sergey70
 iOS/watchOS dev
 
-### telegram: *@Sergey_s70*
+### [Telegram](https://t.me/Sergey_s70)
