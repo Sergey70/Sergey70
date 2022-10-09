@@ -2,7 +2,7 @@
 ### iOS/watchOS/macOS/Flutter dev
 
 
-[![Telegram: @Sergey_s70](https://img.shields.io/badge/Contact-Sergey__s70-brightgreen)](https://t.me/Sergey_s70) 
+[![Telegram: @Sergey_s70](https://img.shields.io/badge/Contact-exovelate-brightgreen)](https://t.me/exovelate) 
 
 [![Codewars](https://www.codewars.com/users/Sergey70/badges/large)](https://www.codewars.com/users/Sergey70)
 
